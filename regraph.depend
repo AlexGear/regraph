@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1494349907 source:f:\programs\regraph\regraph.cpp
+	"regraph.h"
+
+1494318786 f:\programs\regraph\regraph.h
+	<math.h>
+	<windows.h>
+	<windowsx.h>
+	<vector>
+	<queue>
+	<stdio.h>
+	<conio.h>
+
